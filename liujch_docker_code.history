@@ -1,0 +1,3 @@
+docker pull crpi-41eswetqcujo3d9z.cn-hangzhou.personal.cr.aliyuncs.com/liujch/dify-web:0.11.2
+docker tag crpi-41eswetqcujo3d9z.cn-hangzhou.personal.cr.aliyuncs.com/liujch/dify-web:0.11.2 langgenius/dify-web:0.11.2
+docker rmi crpi-41eswetqcujo3d9z.cn-hangzhou.personal.cr.aliyuncs.com/liujch/dify-web:0.11.2
