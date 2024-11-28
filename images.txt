@@ -1,15 +1,16 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
-langgenius/dify-api:0.11.2
-langgenius/dify-web:0.11.2
-langgenius/dify-sandbox:0.2.10
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-docker.elastic.co/elasticsearch/elasticsearch:8.14.3
-quay.io/coreos/etcd:v3.5.5
-minio/minio:RELEASE.2023-03-20T20-16-18Z
-milvusdb/milvus:v2.3.5
-zilliz/attu:v2.3.6
+#langgenius/dify-api:0.11.2
+#langgenius/dify-web:0.11.2
+#langgenius/dify-sandbox:0.2.10
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#docker.elastic.co/elasticsearch/elasticsearch:8.14.3
+#quay.io/coreos/etcd:v3.5.5
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+#milvusdb/milvus:v2.3.5
+#zilliz/attu:v2.3.6
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+xprobe/xinference:v1.0.0
