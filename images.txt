@@ -13,7 +13,7 @@
 #zilliz/attu:v2.3.6
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-xprobe/xinference:v1.0.0
+#xprobe/xinference:v1.0.0
 
-langgenius/dify-api:0.13.1
-langgenius/dify-web:0.13.1
+langgenius/dify-api:0.14.0
+langgenius/dify-web:0.14.0
