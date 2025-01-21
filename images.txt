@@ -15,11 +15,18 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #xprobe/xinference:v1.0.0
 
-langgenius/dify-api:0.15.1
-langgenius/dify-web:0.15.1
+#langgenius/dify-api:0.15.1
+#langgenius/dify-web:0.15.1
 
 #ghcr.io/toeverything/affine-graphql:stable
 #redis
 #postgres:16
 
 #minlag/mermaid-cli
+
+langfuse/langfuse-worker:3
+langfuse/langfuse:3
+clickhouse/clickhouse-server
+minio/minio
+redis:7
+postgres
