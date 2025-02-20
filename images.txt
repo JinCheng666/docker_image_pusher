@@ -15,8 +15,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #xprobe/xinference:v1.0.0
 
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
+#langgenius/dify-api:0.15.3
+#langgenius/dify-web:0.15.3
 
 #ghcr.io/toeverything/affine-graphql:stable
 #redis
@@ -30,3 +30,5 @@ langgenius/dify-web:0.15.3
 #minio/minio
 #redis:7
 #postgres
+
+ghcr.io/fatedier/frpc:v0.55.1
