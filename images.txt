@@ -31,4 +31,6 @@
 #redis:7
 #postgres
 
-ghcr.io/fatedier/frpc:v0.55.1
+#ghcr.io/fatedier/frpc:v0.55.1
+xprobe/xinference:v1.2.2
+xprobe/xinference:v1.3.0.post2
