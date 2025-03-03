@@ -53,7 +53,7 @@
 
 # supersonic
 pgvector/pgvector:pg17
-supersonicbi/supersonic:v0.9.8
+supersonicbi/supersonic:0.9.10
 
 # langfuse
 langfuse/langfuse-worker:3
