@@ -52,13 +52,16 @@
 #xprobe/xinference:v1.3.0.post2
 
 # supersonic
-pgvector/pgvector:pg17
-supersonicbi/supersonic:0.9.10
+#pgvector/pgvector:pg17
+#supersonicbi/supersonic:0.9.10
 
 # langfuse
-langfuse/langfuse-worker:3
-langfuse/langfuse:3
-clickhouse/clickhouse-server
-minio/minio
-redis:7
-postgres:latest
+#langfuse/langfuse-worker:3
+#langfuse/langfuse:3
+#clickhouse/clickhouse-server
+#minio/minio
+#redis:7
+#postgres:latest
+
+# docker ui
+portainer/portainer-ce:lts
