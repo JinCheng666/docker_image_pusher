@@ -16,8 +16,8 @@
 #xprobe/xinference:v1.0.0
 
 ## dify全套
-#langgenius/dify-api:1.0.0
-#langgenius/dify-web:1.0.0
+langgenius/dify-api:1.0.1
+langgenius/dify-web:1.0.1
 #langgenius/dify-plugin-daemon:0.0.3-local
 #postgres:15-alpine
 #redis:6-alpine
@@ -64,4 +64,6 @@
 #postgres:latest
 
 # docker ui
-portainer/portainer-ce:lts
+#portainer/portainer-ce:lts
+
+amtoaer/bili-sync:latest
