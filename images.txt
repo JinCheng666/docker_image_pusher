@@ -18,7 +18,7 @@
 ## dify全套
 #langgenius/dify-api:1.0.1
 #langgenius/dify-web:1.0.1
-langgenius/dify-plugin-daemon:0.0.4-local
+#langgenius/dify-plugin-daemon:0.0.4-local
 #postgres:15-alpine
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.10
@@ -66,4 +66,5 @@ langgenius/dify-plugin-daemon:0.0.4-local
 # docker ui
 #portainer/portainer-ce:lts
 
-amtoaer/bili-sync:latest
+#amtoaer/bili-sync:latest
+amtoaer/bili-sync-rs:latest
