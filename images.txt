@@ -67,4 +67,6 @@
 #portainer/portainer-ce:lts
 
 #amtoaer/bili-sync:latest
-amtoaer/bili-sync-rs:latest
+#amtoaer/bili-sync-rs:latest
+
+ghcr.io/labring/aiproxy:latest
