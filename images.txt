@@ -69,4 +69,7 @@
 #amtoaer/bili-sync:latest
 #amtoaer/bili-sync-rs:latest
 
-ghcr.io/labring/aiproxy:latest
+#ghcr.io/labring/aiproxy:latest
+
+ghcr.io/muchobien/pocketbase:latest
+mcr.microsoft.com/playwright/python:v1.50.0-jammy
