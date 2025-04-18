@@ -14,10 +14,10 @@
 #xprobe/xinference:v1.0.0
 
 ## dify全套
-langgenius/dify-api:1.2.0
-langgenius/dify-web:1.2.0
-langgenius/dify-sandbox:0.2.11
-langgenius/dify-plugin-daemon:0.0.7-local
+#langgenius/dify-api:1.2.0
+#langgenius/dify-web:1.2.0
+#langgenius/dify-sandbox:0.2.11
+#langgenius/dify-plugin-daemon:0.0.7-local
 #postgres:15-alpine
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.10
@@ -72,3 +72,5 @@ langgenius/dify-plugin-daemon:0.0.7-local
 
 #ghcr.io/muchobien/pocketbase:latest
 #mcr.microsoft.com/playwright/python:v1.50.0-jammy
+
+ghcr.io/labring/sealos-aiproxy-service:latest
