@@ -74,4 +74,5 @@
 #mcr.microsoft.com/playwright/python:v1.50.0-jammy
 
 #ghcr.io/labring/sealos-aiproxy-service:latest
-redis:7.2-alpine
+#redis:7.2-alpine
+ghcr.io/labring/fastgpt-mcp_server:v4.9.6
