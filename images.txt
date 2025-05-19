@@ -77,4 +77,5 @@ langgenius/dify-plugin-daemon:0.0.9-local
 #redis:7.2-alpine
 #ghcr.io/labring/fastgpt-mcp_server:v4.9.6
 
-mysql:5.7
+# mysql:5.7
+minio/minio:RELEASE.2023-03-20T20-16-18Z
