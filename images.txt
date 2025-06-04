@@ -96,4 +96,5 @@
 #redis:7.2-alpine
 
 #semitechnologies/weaviate:1.19.0
-docker.io/jc21/nginx-proxy-manager:latest
+#docker.io/jc21/nginx-proxy-manager:latest
+qdrant/qdrant:latest
