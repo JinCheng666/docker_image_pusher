@@ -97,4 +97,5 @@
 
 #semitechnologies/weaviate:1.19.0
 #docker.io/jc21/nginx-proxy-manager:latest
-qdrant/qdrant:latest
+#qdrant/qdrant:latest
+hub.uuuadc.top/library/nginx:1.24.0
