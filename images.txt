@@ -110,4 +110,6 @@ ubuntu/squid:latest
 nginx:latest
 pgvector/pgvector:pg16
 portainer/portainer-ce:lts
+postgres:15-alpine
+semitechnologies/weaviate:1.19.0
 
