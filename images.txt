@@ -98,4 +98,16 @@
 #semitechnologies/weaviate:1.19.0
 #docker.io/jc21/nginx-proxy-manager:latest
 #qdrant/qdrant:latest
-nginx:1.24.0
+#nginx:1.24.0
+
+# dify1.5.0
+langgenius/dify-api:1.5.0
+langgenius/dify-web:1.5.0
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.2-local
+ubuntu/squid:latest
+nginx:latest
+pgvector/pgvector:pg16
+portainer/portainer-ce:lts
+
