@@ -101,8 +101,8 @@
 #nginx:1.24.0
 
 # dify1.5.0
-#langgenius/dify-api:1.5.0
-#langgenius/dify-web:1.5.0
+langgenius/dify-api:1.5.1
+langgenius/dify-web:1.5.1
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.12
 #langgenius/dify-plugin-daemon:0.1.2-local
@@ -116,9 +116,9 @@
 #ghcr.io/songquanpeng/one-api:v0.6.6
 
 # wrenai
-ghcr.io/canner/wren-bootstrap:0.1.5
-ghcr.io/canner/wren-engine:0.17.1
-ghcr.io/canner/wren-engine-ibis:0.17.1
-ghcr.io/canner/wren-ai-service:0.24.3
-qdrant/qdrant:v1.11.0
-ghcr.io/canner/wren-ui:0.30.0
+#ghcr.io/canner/wren-bootstrap:0.1.5
+#ghcr.io/canner/wren-engine:0.17.1
+#ghcr.io/canner/wren-engine-ibis:0.17.1
+#ghcr.io/canner/wren-ai-service:0.24.3
+#qdrant/qdrant:v1.11.0
+#ghcr.io/canner/wren-ui:0.30.0
