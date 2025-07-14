@@ -124,4 +124,8 @@ langgenius/dify-plugin-daemon:0.1.3-local
 #ghcr.io/canner/wren-ui:0.30.0
 
 
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+# minio/minio:RELEASE.2025-04-22T22-12-26Z
+
+# docker 
+docker.elastic.co/elasticsearch/elasticsearch:7.17.2
+docker.elastic.co/kibana/kibana:7.17.2
