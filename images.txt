@@ -127,7 +127,8 @@
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
 
 # docker 
-#docker.elastic.co/elasticsearch/elasticsearch:7.17.2
-#docker.elastic.co/kibana/kibana:7.17.2
+docker.elastic.co/elasticsearch/elasticsearch:7.17.2
+docker.elastic.co/kibana/kibana:7.17.2
+redis:6.0.8
 
-downloads.unstructured.io/unstructured-io/unstructured:latest
+# downloads.unstructured.io/unstructured-io/unstructured:latest
