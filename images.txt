@@ -101,11 +101,11 @@
 #nginx:1.24.0
 
 # dify1.6.0
-#langgenius/dify-api:1.6.0
-#langgenius/dify-web:1.6.0
+langgenius/dify-api:1.7.1
+langgenius/dify-web:1.7.1
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.12
-#langgenius/dify-plugin-daemon:0.1.3-local
+langgenius/dify-plugin-daemon:0.2.0-local
 #ubuntu/squid:latest
 #nginx:latest
 #pgvector/pgvector:pg16
@@ -127,8 +127,8 @@
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
 
 # docker 
-docker.elastic.co/elasticsearch/elasticsearch:7.17.2
-docker.elastic.co/kibana/kibana:7.17.2
-redis:6.0.8
+#docker.elastic.co/elasticsearch/elasticsearch:7.17.2
+#docker.elastic.co/kibana/kibana:7.17.2
+#redis:6.0.8
 
 # downloads.unstructured.io/unstructured-io/unstructured:latest
