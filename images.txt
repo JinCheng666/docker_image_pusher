@@ -133,5 +133,6 @@ langgenius/dify-plugin-daemon:0.2.0-local
 
 # downloads.unstructured.io/unstructured-io/unstructured:latest
 
-apache/doris:2.1.10-fe-x86_64
-apache/doris:2.1.10-be-x86_64
+apache/doris:2.1.9-fe-x86_64
+apache/doris:2.1.9-be-x86_64
+apache/doris:build-env-ldb-toolchain-latest
