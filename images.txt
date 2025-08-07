@@ -101,8 +101,8 @@
 #nginx:1.24.0
 
 # dify1.6.0
-langgenius/dify-api:1.7.1
-langgenius/dify-web:1.7.1
+#langgenius/dify-api:1.7.1
+#langgenius/dify-web:1.7.1
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.2.0-local
@@ -132,3 +132,6 @@ langgenius/dify-plugin-daemon:0.2.0-local
 #redis:6.0.8
 
 # downloads.unstructured.io/unstructured-io/unstructured:latest
+
+apache/doris:2.1.10-fe-x86_64
+apache/doris:2.1.10-be-x86_64
