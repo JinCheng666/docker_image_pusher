@@ -133,6 +133,6 @@
 
 # downloads.unstructured.io/unstructured-io/unstructured:latest
 
-apache/doris:2.0.3-fe-x86_64
-apache/doris:2.0.3-be-x86_64
+#apache/doris:2.0.3-fe-x86_64
+#apache/doris:2.0.3-be-x86_64
 apache/doris:build-env-ldb-toolchain-latest
