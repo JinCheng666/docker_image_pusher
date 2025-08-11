@@ -133,6 +133,9 @@
 
 # downloads.unstructured.io/unstructured-io/unstructured:latest
 
-apache/doris:be-2.1.10
-apache/doris:fe-2.1.10
-apache/doris:build-env-ldb-toolchain-latest
+#apache/doris:be-2.1.10
+#apache/doris:fe-2.1.10
+#apache/doris:build-env-ldb-toolchain-latest
+
+dataease/sqlbot:v1.0.0
+postgres:17.5
