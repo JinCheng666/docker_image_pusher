@@ -116,12 +116,12 @@
 #ghcr.io/songquanpeng/one-api:v0.6.6
 
 # wrenai
-#ghcr.io/canner/wren-bootstrap:0.1.5
-#ghcr.io/canner/wren-engine:0.17.1
-#ghcr.io/canner/wren-engine-ibis:0.17.1
-#ghcr.io/canner/wren-ai-service:0.24.3
-#qdrant/qdrant:v1.11.0
-#ghcr.io/canner/wren-ui:0.30.0
+ghcr.io/canner/wren-bootstrap:0.1.5
+ghcr.io/canner/wren-engine:0.18.3
+ghcr.io/canner/wren-engine-ibis:0.18.3
+ghcr.io/canner/wren-ai-service:0.27.11
+qdrant/qdrant:v1.11.0
+ghcr.io/canner/wren-ui:0.31.1
 
 
 # minio/minio:RELEASE.2025-04-22T22-12-26Z
@@ -143,6 +143,6 @@
 #flink:1.17.2-scala_2.12-java11
 #flink:1.17-scala_2.12-java11
 
-langgenius/dify-api:1.7.2
-langgenius/dify-web:1.7.2
-langgenius/dify-plugin-daemon:0.2.0-local
+#langgenius/dify-api:1.7.2
+#langgenius/dify-web:1.7.2
+#langgenius/dify-plugin-daemon:0.2.0-local
