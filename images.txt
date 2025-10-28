@@ -147,7 +147,9 @@
 #langgenius/dify-web:1.7.2
 #langgenius/dify-plugin-daemon:0.2.0-local
 
-vesoft/nebula-metad:v3.6.0
-vesoft/nebula-storaged:v3.6.0
-vesoft/nebula-graphd:v3.6.0
-vesoft/nebula-graph-studio:v3.10.0
+#vesoft/nebula-metad:v3.6.0
+#vesoft/nebula-storaged:v3.6.0
+#vesoft/nebula-graphd:v3.6.0
+#vesoft/nebula-graph-studio:v3.10.0
+
+moonlake246/youtu-graphrag:v1.1
