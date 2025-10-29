@@ -152,4 +152,15 @@
 #vesoft/nebula-graphd:v3.6.0
 #vesoft/nebula-graph-studio:v3.10.0
 
-moonlake246/youtu-graphrag:v1.1
+# moonlake246/youtu-graphrag:v1.1
+
+# dify 1.9.2
+langgenius/dify-api:1.9.2
+langgenius/dify-web:1.9.2
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.3.3-local
+ubuntu/squid:latest
+nginx:latest
+semitechnologies/weaviate:1.27.0
