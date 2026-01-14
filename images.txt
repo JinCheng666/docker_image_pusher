@@ -39,13 +39,6 @@
 
 #minlag/mermaid-cli
 
-#langfuse/langfuse-worker:3
-#langfuse/langfuse:3
-#clickhouse/clickhouse-server
-#minio/minio
-#redis:7
-#postgres
-
 #ghcr.io/fatedier/frpc:v0.55.1
 #xprobe/xinference:v1.2.2
 #xprobe/xinference:v1.3.0.post2
@@ -53,14 +46,6 @@
 # supersonic
 #pgvector/pgvector:pg17
 #supersonicbi/supersonic:0.9.10
-
-# langfuse
-#langfuse/langfuse-worker:3
-#langfuse/langfuse:3
-#clickhouse/clickhouse-server
-#minio/minio
-#redis:7
-#postgres:latest
 
 # docker ui
 #portainer/portainer-ce:lts
@@ -165,9 +150,18 @@
 #nginx:latest
 #semitechnologies/weaviate:1.27.0
 
-ghcr.io/dayuanjiang/next-ai-draw-io:latest
+# ghcr.io/dayuanjiang/next-ai-draw-io:latest
 # dify1.10.1-fix-1
-langgenius/dify-api:1.10.1-fix.1
-langgenius/dify-web:1.10.1-fix.1
-mysql:8.0
-langgenius/dify-plugin-daemon:0.4.1-local
+# langgenius/dify-api:1.10.1-fix.1
+# langgenius/dify-web:1.10.1-fix.1
+# mysql:8.0
+# langgenius/dify-plugin-daemon:0.4.1-local
+
+
+# langfuse
+docker.io/langfuse/langfuse-worker:3
+docker.io/langfuse/langfuse:3
+#clickhouse/clickhouse-server
+#minio/minio
+#redis:7
+#postgres:latest
