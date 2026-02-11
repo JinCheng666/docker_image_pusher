@@ -167,12 +167,15 @@
 #postgres:latest 
 
 # weknora
-wechatopenai/weknora-ui:latest
-wechatopenai/weknora-app:latest
-wechatopenai/weknora-docreader:latest
-paradedb/paradedb:v0.21.4-pg17
-redis:7.0-alpine
-minio/minio:RELEASE.2025-09-07T16-13-09Z
-jaegertracing/all-in-one:1.76.0
-neo4j:2025.10.1
-qdrant/qdrant:v1.16.2
+#wechatopenai/weknora-ui:latest
+#wechatopenai/weknora-app:latest
+#wechatopenai/weknora-docreader:latest
+#paradedb/paradedb:v0.21.4-pg17
+#redis:7.0-alpine
+#minio/minio:RELEASE.2025-09-07T16-13-09Z
+#jaegertracing/all-in-one:1.76.0
+#neo4j:2025.10.1
+#qdrant/qdrant:v1.16.2
+
+semitechnologies/weaviate:1.27.0
+langgenius/dify-plugin-daemon:0.5.1-local
