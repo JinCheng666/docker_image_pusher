@@ -189,16 +189,17 @@
 #python:3.11-slim
 
 # dify-1.13.3
-busybox:latest
-langgenius/dify-api:1.13.3
-langgenius/dify-web:1.13.3
-postgres:15-alpine
-mysql:8.0
-redis:6-alpine
-langgenius/dify-sandbox:0.2.14
-langgenius/dify-plugin-daemon:0.5.3-local
-ubuntu/squid:latest
-certbot/certbot
-nginx:latest
-semitechnologies/weaviate:1.27.0
+#busybox:latest
+#langgenius/dify-api:1.13.3
+#langgenius/dify-web:1.13.3
+#postgres:15-alpine
+#mysql:8.0
+#redis:6-alpine
+#langgenius/dify-sandbox:0.2.14
+#langgenius/dify-plugin-daemon:0.5.3-local
+#ubuntu/squid:latest
+#certbot/certbot
+#nginx:latest
+#semitechnologies/weaviate:1.27.0
 
+zilliz/attu:v3.0.0-beta.3
