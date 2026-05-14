@@ -204,5 +204,14 @@
 
 # zilliz/attu:v3.0.0-beta.3
 
-rabbitmq:3.13-management
+# rabbitmq:3.13-management
+
+# langfuse
+docker.io/langfuse/langfuse-worker:3
+docker.io/langfuse/langfuse:3
+docker.io/clickhouse/clickhouse-server
+cgr.dev/chainguard/minio
+docker.io/redis:7
+docker.io/postgres:17
+
 
