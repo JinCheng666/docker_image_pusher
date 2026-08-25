@@ -220,4 +220,6 @@
 
 #calciumion/new-api:latest
 #onlyoffice/documentserver:9.0.4
-vllm/vllm-openai:v0.26.0
+#vllm/vllm-openai:v0.26.0
+
+postgres:15
