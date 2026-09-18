@@ -224,4 +224,5 @@
 
 #postgres:15
 
-vllm/vllm-openai:deepseekv41-flash-0909
+#vllm/vllm-openai:deepseekv41-flash-0909
+vllm/vllm-openai:nightly
